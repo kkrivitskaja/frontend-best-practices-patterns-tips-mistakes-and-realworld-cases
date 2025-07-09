@@ -1,6 +1,6 @@
 # Frontend Best Practices, Patterns, Tips, Mistakes & Real-World Cases
 
-> A comprehensive, curated collection of frontend best practices, real-world case studies, design patterns, common mistakes, interview questions, and useful resources for React, JavaScript, and modern web development.
+> A comprehensive, curated collection of frontend best practices, real-world case studies, design patterns, common mistakes, and useful resources for React, JavaScript, and modern web development.
 
 
 ---

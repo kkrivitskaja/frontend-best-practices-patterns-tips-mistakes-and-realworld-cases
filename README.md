@@ -18,7 +18,7 @@
 
 - [Scalable, Production-Ready Data Tables: UI/UX Principles, Pitfalls, and Solutions](cases/scalable-production-data-table-ux.md)
 - [Responsive Data Tables: Deep Dive into UX for Mobile and Small Screens](cases/responsive-data-tables-ux.md)
-- [Production-ready Drag-and-Drop Table with Mobile Support](cases/drag-and-drop-table-mobile-production.md) 
+- [Production-ready Drag-and-Drop Table with Mobile Support](cases/drag-and-drop-table-mobile-production.md) (coming soon)
 
 ### Frontend Best Practices & Patterns
 

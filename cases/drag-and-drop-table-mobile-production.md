@@ -1,7 +1,23 @@
-# Production-ready Drag-and-Drop Table with Mobile Support in React
+<!-- 
+SEO: drag-and-drop data table, mobile support, react, production-ready, UX, accessibility, frontend, best practices, touch-friendly, web development
+-->
 
-****  
-How to build a robust, accessible, and mobile-friendly drag-and-drop table in React, with real-world solutions for overlays, touch UX, and clean DOM.
+# Production-Ready Drag-and-Drop Data Table for Mobile & Desktop (React)
+
+How to build a robust, accessible, and mobile-friendly drag-and-drop data table in React, with real-world solutions for overlays, touch UX, and clean DOM.
+
+---
+
+## 🔍 Table of Contents
+- [Problem](#problem)
+- [Challenges](#challenges)
+- [Solutions](#solutions)
+- [Key Code Snippets](#key-code-snippets)
+- [Lessons Learned](#lessons-learned)
+- [UX Considerations](#ux-considerations)
+- [References](#references)
+- [Related Topics](#related-topics)
+- [FAQ](#faq)
 
 ---
 
@@ -114,9 +130,29 @@ const sensors = useSensors(
 - [Drag and Drop Accessibility: A Complete Guide](https://www.continualengine.com/blog/drag-and-drop-accessibility/)
 - [Understanding WCAG Guidelines for Drag and Drop Accessibility Compliance]([https://www.continualengine.com/blog/drag-and-drop-accessibility/](https://accessibilityspark.com/drag-and-drop-accessibility/))
 
+---
 
+## 📚 Related Topics
+- [Scalable Data Table UX: Best Practices](scalable-production-data-table-ux.md)
+- [Responsive Data Tables: Mobile-First Patterns](responsive-data-tables-ux.md)
+- [Best Data Table Libraries (2024)](../sources/best-data-table-libraries.md)
+- Accessibility (WCAG, ARIA)
+- Table Virtualization (React Window, TanStack)
+- UX Laws (Fitts’s, Hick’s)
 
 ---
 
-**If you found this case useful, please ⭐️ the repo** 
+## ❓ FAQ
 
+**Q: How to make drag-and-drop work on mobile?**
+A: Use a dedicated drag handle, touch sensors, and avoid drag on tap. Test on real devices.
+
+**Q: How to ensure accessibility for drag-and-drop tables?**
+A: Use ARIA labels, semantic HTML, and keyboard navigation for all actions.
+
+**Q: What libraries are recommended?**
+A: [dnd-kit](https://docs.dndkit.com/), [TanStack Table](https://tanstack.com/table/v8), [Material UI Table](https://mui.com/material-ui/react-table/)
+
+---
+
+**If you found this case useful, please ⭐️ the repo and share your own drag-and-drop table tips!** 

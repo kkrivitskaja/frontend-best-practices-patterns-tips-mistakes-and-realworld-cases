@@ -1,7 +1,12 @@
-# Frontend Best Practices, Patterns, Tips, Mistakes & Real-World Cases
+<!-- 
+SEO: frontend best practices, data table UX, production patterns, react, responsive tables, accessibility, scalable tables, real-world cases, web development, UI/UX, javascript, mistakes, tips
+-->
 
-> A comprehensive, curated collection of frontend best practices, real-world case studies, design patterns, common mistakes, and useful resources for React, JavaScript, and modern web development.
+# Frontend Best Practices, Real-World Data Table UX & Production Patterns
 
+Learn the best practices, patterns, and real-world solutions for building scalable, accessible, and high-performance data tables and frontend components in React and modern web development.
+
+![Preview of frontend best practices and data table UX](./preview.png)
 
 ---
 
@@ -15,10 +20,9 @@
 ---
 
 ### Real-World Frontend Cases
-
-- [Scalable, Production-Ready Data Tables: UI/UX Principles, Pitfalls, and Solutions](cases/scalable-production-data-table-ux.md)
-- [Responsive Data Tables: Deep Dive into UX for Mobile and Small Screens](cases/responsive-data-tables-ux.md)
-- [Production-ready Drag-and-Drop Table with Mobile Support](cases/drag-and-drop-table-mobile-production.md) 
+- [Scalable Data Table UX: Best Practices](cases/data-table-ux-best-practices.md)
+- [Responsive Data Tables: Mobile-First Patterns](cases/responsive-data-tables-ux.md)
+- [Drag-and-Drop Data Table for Mobile & Desktop](cases/drag-and-drop-table-mobile-production.md)
 
 ### Frontend Best Practices & Patterns
 
@@ -31,31 +35,38 @@
 
 ### Useful Frontend Resources
 
-- [Best Data Table Libraries for Production-Ready Frontend Apps](sources/best-data-table-libraries.md)
+- [Best Data Table Libraries](sources/best-data-table-libraries.md)
 
 ---
 
 ## ⭐️ Why This Repository?
 
-- **Frontend best practices** for React, JavaScript, CSS, and modern web development.
-- **Real-world case studies** and solutions from production experience.
-- **Design patterns** and reusable code snippets.
+- **Production-proven best practices** for React, JavaScript, and CSS.
+- **Real-world case studies** and solutions.
+- **Design patterns** and reusable code.
 - **Common mistakes** and how to avoid them.
 
 This repository is designed for frontend developers, engineers, and anyone preparing for frontend interviews or looking to improve their web development skills.
-
-If you find this project helpful, **please star it** and share with your colleagues
-
----
-
-## 🚀 How to Use
-
-- Browse the [Table of Contents](#table-of-contents) to find topics of interest.
-- Click on any case, pattern, or question to read detailed explanations and code examples.
 
 ---
 
 ## 🔍 Keywords
 
-frontend, best practices, real-world, cases, patterns, interview, questions, answers, react, javascript, css, html, mistakes, tips, production, web development, awesome, knowledge base, learning, resources
+frontend, best practices, real-world, cases, patterns, interview, questions, answers, react, javascript, css, html, mistakes, tips, production, web development, awesome, knowledge base, learning, resources, data table, UX, accessibility, responsive, scalable
 
+---
+
+## 📚 Related Topics
+
+- Responsive Web Design
+- Accessibility (WCAG, ARIA)
+- Table Virtualization (React Window, TanStack)
+- UX Laws (Fitts’s, Hick’s)
+- Mobile-first UI Design
+
+---
+
+
+## 🙌 Contribute or Share
+
+If you found this project helpful, please ⭐️ the repo and share your experience or open a PR!

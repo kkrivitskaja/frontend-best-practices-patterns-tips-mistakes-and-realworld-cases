@@ -44,6 +44,8 @@
 
 This repository is designed for frontend developers, engineers, and anyone preparing for frontend interviews or looking to improve their web development skills.
 
+If you find this project helpful, **please star it** and share with your colleagues
+
 ---
 
 ## 🚀 How to Use

@@ -6,7 +6,7 @@ SEO: frontend best practices, data table UX, production patterns, react, respons
 
 Learn the best practices, patterns, and real-world solutions for building scalable, accessible, and high-performance data tables and frontend components in React and modern web development.
 
-![Preview of frontend best practices and data table UX](./preview.png)
+
 
 ---
 

@@ -109,6 +109,10 @@ const sensors = useSensors(
 - [The Road to Accessible Drag and Drop (Part 2)](https://www.tpgi.com/the-road-to-accessible-drag-and-drop-part-2/)
 - [Accessible Drag-and-Drop](https://github.com/salesforce-ux/dnd-a11y-patterns)
 - [10 Tips for Accessible Drag-and-Drop Interfaces](https://fleexy.dev/blog/10-tips-for-accessible-drag-and-drop-interfaces/)
+- [Drag and Drop Accessibility: A Complete Guide](https://www.continualengine.com/blog/drag-and-drop-accessibility/)
+- [ Understanding WCAG Guidelines for Drag and Drop Accessibility Compliance]([https://www.continualengine.com/blog/drag-and-drop-accessibility/](https://accessibilityspark.com/drag-and-drop-accessibility/))
+
+
 
 ---
 

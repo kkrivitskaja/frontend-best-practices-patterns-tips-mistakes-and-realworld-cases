@@ -24,7 +24,7 @@ flowchart LR
     B --Sticky First Column--> D[First Column]
 ```
 
-#### **Production Code Example (React + Tailwind)**
+#### **Code Example (React + Tailwind)**
 ```tsx
 // Pattern: Horizontal Scroll with Sticky Header/Column
 // Why: Preserves table structure, all columns accessible, familiar UX
@@ -80,7 +80,7 @@ flowchart TD
     B --> D[+N More Indicator]
 ```
 
-#### **Production Code Example (React + Tailwind)**
+#### **Code Example (React + Tailwind)**
 ```tsx
 // Pattern: Column Prioritization with "More" Indicator
 // Why: Shows only key columns on mobile, keeps UI clean
@@ -140,7 +140,7 @@ flowchart TD
     B --> D[Details Section]
 ```
 
-#### **Production Code Example (React + Tailwind)**
+#### **Code Example (React + Tailwind)**
 ```tsx
 // Pattern: Card/List View for Mobile
 // Why: Optimized for touch, easy to scan, flexible layout
@@ -181,7 +181,7 @@ flowchart TD
     B --> C[All Details]
 ```
 
-#### **Production Code Example (React + Tailwind)**
+#### **Code Example (React + Tailwind)**
 ```tsx
 // Pattern: Expandable Row / Details Modal
 // Why: Clean UI, all data accessible on demand, avoids clutter
@@ -285,7 +285,6 @@ export function ExpandableTable({ columns, data }) {
 - [Material UI Table Responsiveness](https://mui.com/material-ui/react-table/#responsiveness)
 - [UX Design for Data Tables (UX Collective)](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
 - [Laws of UX](https://lawsofux.com/)
-- [NNGroup: Feedback](https://www.nngroup.com/articles/feedback/)
 
 ---
 

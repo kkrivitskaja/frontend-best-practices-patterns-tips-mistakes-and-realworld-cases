@@ -1,6 +1,6 @@
 # Production-ready Drag-and-Drop Table with Mobile Support in React
 
-**TL;DR:**  
+****  
 How to build a robust, accessible, and mobile-friendly drag-and-drop table in React, with real-world solutions for overlays, touch UX, and clean DOM.
 
 ---

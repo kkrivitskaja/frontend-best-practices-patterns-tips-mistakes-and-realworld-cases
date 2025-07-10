@@ -71,12 +71,24 @@ The challenge is to deliver a **scalable, maintainable, and delightful experienc
 
 ## UX Laws and Principles to Follow
 
-- **Fitts’s Law:** Make interactive targets large enough for easy tapping/clicking.
+- **Fitts’s Law:** Make interactive targets large enough for easy tapping/clicking. 
+  - *The time to acquire a target is a function of the distance to and size of the target.*
+  - [Read more](https://lawsofux.com/fittss-law/)
 - **Hick’s Law:** Don’t overload users with too many visible options at once.
+  - *The time it takes to make a decision increases with the number and complexity of choices.*
+  - [Read more](https://lawsofux.com/hicks-law/)
 - **Law of Proximity:** Group related actions (e.g., row actions) together.
+  - *Objects that are near, or proximate to each other, tend to be grouped together.*
+  - [Read more](https://lawsofux.com/law-of-proximity/)
 - **Feedback Principle:** Always provide immediate, clear feedback for user actions.
+  - *Users should be informed of actions, changes, or errors in a clear and timely manner.*
+  - [Read more](https://www.nngroup.com/articles/feedback/)
 - **Consistency Principle:** Use consistent icons, colors, and interaction patterns across devices.
+  - *Users should not have to wonder whether different words, situations, or actions mean the same thing.*
+  - [Read more](https://lawsofux.com/law-of-uniform-connectedness/)
 - **Aesthetic-Usability Effect:** Clean, visually appealing tables are perceived as easier to use.
+  - *Users often perceive aesthetically pleasing design as more usable.*
+  - [Read more](https://lawsofux.com/aesthetic-usability-effect/)
 
 ---
 

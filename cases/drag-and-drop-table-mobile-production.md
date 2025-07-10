@@ -105,11 +105,14 @@ const sensors = useSensors(
 
 - [dnd-kit documentation](https://docs.dndkit.com/)
 - [React Table](https://tanstack.com/table/v8)
+- [Drag-and-Drop UX: Guidelines and Best Practices](https://smart-interface-design-patterns.com/articles/drag-and-drop-ux/)
+- [Drag and Drop for Design Systems](https://marvelapp.com/blog/drag-drop-design-systems/)
+- [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/engineering/user-experience/exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 - [The Road to Accessible Drag and Drop (Part 1)](https://www.tpgi.com/the-road-to-accessible-drag-and-drop-part-1/)
 - [The Road to Accessible Drag and Drop (Part 2)](https://www.tpgi.com/the-road-to-accessible-drag-and-drop-part-2/)
 - [10 Tips for Accessible Drag-and-Drop Interfaces](https://fleexy.dev/blog/10-tips-for-accessible-drag-and-drop-interfaces/)
 - [Drag and Drop Accessibility: A Complete Guide](https://www.continualengine.com/blog/drag-and-drop-accessibility/)
-- [ Understanding WCAG Guidelines for Drag and Drop Accessibility Compliance]([https://www.continualengine.com/blog/drag-and-drop-accessibility/](https://accessibilityspark.com/drag-and-drop-accessibility/))
+- [Understanding WCAG Guidelines for Drag and Drop Accessibility Compliance]([https://www.continualengine.com/blog/drag-and-drop-accessibility/](https://accessibilityspark.com/drag-and-drop-accessibility/))
 
 
 

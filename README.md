@@ -31,7 +31,7 @@
 
 ### Useful Frontend Resources
 
-- (coming soon)
+- [Best Data Table Libraries for Production-Ready Frontend Apps](sources/best-data-table-libraries.md)
 
 ---
 

@@ -23,6 +23,7 @@ Learn the best practices, patterns, and real-world solutions for building scalab
 - [Scalable Data Table UX: Best Practices](cases/data-table-ux-best-practices.md)
 - [Responsive Data Tables: Mobile-First Patterns](cases/responsive-data-tables-ux.md)
 - [Drag-and-Drop Data Table for Mobile & Desktop](cases/drag-and-drop-table-mobile-production.md)
+- [Mobile Filter UX: Pitfalls, Patterns & Responsive Solutions](cases/mobile-filter-ux-pitfalls-and-solutions.md)
 
 ### Frontend Best Practices & Patterns
 
